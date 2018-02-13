@@ -1,0 +1,8 @@
+---
+name: "Minni Manifest"
+short_name: "minnimanifest"
+lang: "es-AR"
+start_url: "/"
+display: "standalone"
+background_color: "#FFFFFF"
+theme_color: "#222222"
