@@ -10,22 +10,22 @@ module.exports = function template () {
     "theme_color": "{{theme_color}}",
     "icons": [  
       {  
-        "src": "/assets/images/icon-192x192.png",  
+        "src": "/assets/img/icon-192x192.png",  
         "sizes": "192x192",  
         "type": "image/png"  
       },  
       {  
-        "src": "/assets/images/icon-256x256.png",  
+        "src": "/assets/img/icon-256x256.png",  
         "sizes": "256x256",  
         "type": "image/png"  
       },  
       {  
-        "src": "/assets/images/icon-384x384.png",  
+        "src": "/assets/img/icon-384x384.png",  
         "sizes": "384x384",  
         "type": "image/png"  
       },  
       {  
-        "src": "/assets/images/icon-512x512.png",  
+        "src": "/assets/img/icon-512x512.png",  
         "sizes": "512x512",  
         "type": "image/png"  
       }
